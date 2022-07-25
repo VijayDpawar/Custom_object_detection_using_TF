@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>istockphoto-1334507486-612x612.jpg</filename>
+	<path>/home/tecblic/Documents/My Files/object detection /tf/bin/tensorflow/workspace/training_demo/images/istockphoto-1334507486-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wheel_chair</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>162</ymin>
+			<xmax>524</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>
